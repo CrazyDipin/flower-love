@@ -66,7 +66,7 @@ function drawFlowers(){
 
 function drawText(){
    context.fillStyle = "rgba(255,100,50,0.05)";
-   context.fillText("I LOVE YOU",-180,150);
+   context.fillText("NARISAU NAA MAA SANGA",-180,150);
 }
 
 function drawName(){
